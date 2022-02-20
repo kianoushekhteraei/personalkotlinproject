@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KotlinProject</string>
+    <string name="tv_splash">اولین اپلکیشن کاتلین</string>
+    <string name="tv_no_internet">دسترسی به اینترنت موجود نمی باشد.</string>
+    <string name="tv_description_no_internet">لطفا از اتصال دستگاه به اینترنت اطمینان حاصل فرمایید.</string>
+    <string name="tv_connect_to_wifi">اتصال به wifi</string>
+    <string name="tv_connect_to_data_mobile">اتصال به دیتای موبایل</string>
+    <string name="tv_title_login">ورود کاربر</string>
+    <string name="tv_title_username">نام کاربری</string>
+    <string name="tv_title_change_password">تغییر رمز عبور</string>
+    <string name="tv_title_verify_code">کد دریافت شده را وارد نمایید.</string>
+    <string name="tv_title_password">رمز عبور</string>
+    <string name="tv_title_confirm_password">تکرار رمز عبور</string>
+    <string name="hint_username">نام کاربری را وارد نمایید.</string>
+    <string name="hint_password">رمز عبور را وارد نمایید.</string>
+    <string name="hint_confirm_password"> مجددا رمز عبور را وارد نمایید.</string>
+    <string name="tv_btn_login">ورود</string>
+    <string name="tv_title_profile">پروفایل</string>
+    <string name="tv_title_home">خانه</string>
+    <string name="tv_title_shop">سبد خرید</string>
+    <string name="tv_title_category">دسته بندی ها</string>
+    <string name="tv_title_new_password">رمز عبور جدید</string>
+    <string name="tv_btn_get_verification_code">دریافت کد تایید</string>
+    <string name="tv_title_confirm_new_password"> تکرار رمز عبور جدید</string>
+    <string name="hint_get_verification">کد دریافت شده را وارد نمایید.</string>
+    <string name="hint_change_password"> رمز عبور جدید را وارد نمایید.</string>
+    <string name="hint_confirm_change_password">رمز عبور جدید را محددا وارد نمایید.</string>
+    <string name="tv_title_make_acc"> حساب کاربری خود را ایجاد کنید.</string>
+    <string name="tv_title_forget_password">رمز عبور خود را فراموش کرده ام.</string>
+    <string name="tv_title_sign_up">ثبت نام</string>
+    <string name="title_product">Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops</string>
+    <string name="description_product">Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your </string>
+    <string name="tv_profile_name">Kianoush Ekhteraei</string>
+</resources>

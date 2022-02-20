@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable-hdpi/bg_cl_most_sell.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_btn.xml" value="0.1585" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_cl_most_sells.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_cl_most_view.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_cl_most_views.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_cl_new_prd.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_cl_social.xml" value="0.1725" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_et.xml" value="0.17" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_internet_dialog.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_recycler.xml" value="0.17" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_rv_categories.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/bg_sample_rvs.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_arrow_left.xml" value="0.14" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_category_orange.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_category_white.xml" value="0.11" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_category_yellow.xml" value="0.11" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_home_black.xml" value="0.124" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_home_orange.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_home_white.xml" value="0.11" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_home_yellow.xml" value="0.11" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_shop_black.xml" value="0.124" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_shop_white.xml" value="0.1" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_shop_yellow.xml" value="0.11" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_user_orange.xml" value="0.1485" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_user_white.xml" value="0.11" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/ic_user_yellow.xml" value="0.11" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/drawable/profile_bottom_bg.xml" value="0.1725" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/activity_internet.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/activity_login.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/activity_sign_up.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/bottom_navigation.xml" value="0.176" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/fragment_categories.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/fragment_category.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/fragment_home.xml" value="0.24424424424424424" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/fragment_shop.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_recipe.xml" value="0.20854700854700856" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_recycler.xml" value="0.20854700854700856" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_rv_categories.xml" value="0.264" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_rv_cocktails.xml" value="0.20599409033347404" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_rv_drinks.xml" value="0.2" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_rv_products.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_rv_profile.xml" value="0.2" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_rv_skills.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/sample_slider.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/stp_one_get_email.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/stp_three_new_password.xml" value="0.20863616930312098" />
+        <entry key="..\:/app/AndroidProjects/KotlinProject/app/src/main/res/layout/stp_two_verify_code.xml" value="0.20863616930312098" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
